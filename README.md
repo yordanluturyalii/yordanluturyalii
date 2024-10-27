@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yordan Aserama Luturyali</h1>
 <h3 align="center">Hi! I'm Jojo, a full-stack developer who loves coding with Laravel. It feels like solving a puzzle, piecing together code to create useful applications. I also enjoy exploring DevOps! Let's code together and have some fun!</h3>
 
-![alt text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWRkdG80cGszZzJ1NnJ4M2p3YmxwZ2plbzJiazdiYWMyOTkzNTlqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/u2wg2uXJbHzkXkPphr/giphy.gif)
+<img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWRkdG80cGszZzJ1NnJ4M2p3YmxwZ2plbzJiazdiYWMyOTkzNTlqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/u2wg2uXJbHzkXkPphr/giphy.gif" alt="Codingg" style="width: 100%; display: block; margin: 0 auto;"/>
 
 - 💬 Ask me about **Laravel, Vue, AWS**
 
