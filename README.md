@@ -3,7 +3,9 @@
 
 <img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWRkdG80cGszZzJ1NnJ4M2p3YmxwZ2plbzJiazdiYWMyOTkzNTlqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/u2wg2uXJbHzkXkPphr/giphy.gif" alt="Codingg" style="width: 100%; display: block; margin: 0 auto;"/>
 
-- 💬 Ask me about **Laravel, Vue, AWS**
+- 🌱 I’m currently learning **Go**
+
+- 💬 Ask me about **Laravel, Go, AWS**
 
 - 📫 How to reach me **yordanluturyali@gmail.com**
 
